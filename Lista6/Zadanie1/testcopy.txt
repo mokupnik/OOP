@@ -1,0 +1,1 @@
+Ten tekst zostanie skopiowany do copy_test.txt

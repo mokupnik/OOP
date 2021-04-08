@@ -1,0 +1,13 @@
+C:\Users\vb\Desktop\POO\Lista5\Smtp\obj\Debug\netcoreapp3.1\Smtp.csprojAssemblyReference.cache
+C:\Users\vb\Desktop\POO\Lista5\Smtp\obj\Debug\netcoreapp3.1\Smtp.csproj.CoreCompileInputs.cache
+C:\Users\vb\Desktop\POO\Lista5\Smtp\obj\Debug\netcoreapp3.1\Smtp.AssemblyInfoInputs.cache
+C:\Users\vb\Desktop\POO\Lista5\Smtp\obj\Debug\netcoreapp3.1\Smtp.AssemblyInfo.cs
+C:\Users\vb\Desktop\POO\Lista5\Smtp\bin\Debug\netcoreapp3.1\Smtp.exe
+C:\Users\vb\Desktop\POO\Lista5\Smtp\bin\Debug\netcoreapp3.1\Smtp.deps.json
+C:\Users\vb\Desktop\POO\Lista5\Smtp\bin\Debug\netcoreapp3.1\Smtp.runtimeconfig.json
+C:\Users\vb\Desktop\POO\Lista5\Smtp\bin\Debug\netcoreapp3.1\Smtp.runtimeconfig.dev.json
+C:\Users\vb\Desktop\POO\Lista5\Smtp\bin\Debug\netcoreapp3.1\Smtp.dll
+C:\Users\vb\Desktop\POO\Lista5\Smtp\bin\Debug\netcoreapp3.1\Smtp.pdb
+C:\Users\vb\Desktop\POO\Lista5\Smtp\obj\Debug\netcoreapp3.1\Smtp.dll
+C:\Users\vb\Desktop\POO\Lista5\Smtp\obj\Debug\netcoreapp3.1\Smtp.pdb
+C:\Users\vb\Desktop\POO\Lista5\Smtp\obj\Debug\netcoreapp3.1\Smtp.genruntimeconfig.cache

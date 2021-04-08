@@ -1,0 +1,25 @@
+using System;
+using System.Collections.Generic;
+using System.Reflection;
+using Xunit;
+
+namespace Lista9_2 {
+
+public class UnitTests
+{
+
+    [Fact]
+    public void Test1()
+    {
+        
+
+
+    }
+
+
+
+}
+
+
+
+}
